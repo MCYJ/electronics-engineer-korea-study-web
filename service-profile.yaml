@@ -1,0 +1,14 @@
+service:
+  id: "kor-0039"
+  slug: "electronics-engineer-korea-study-web"
+  appName: "전자기사 필기·실기"
+  supportEmail: "june1012june@gmail.com"
+  locales: ["ko"]
+app:
+  androidPackage: "app.mcyj.examprep.kor0039"
+  iosBundleIdentifier: "app.mcyj.examprep.kor0039"
+web:
+  origin: "https://mcyj.github.io"
+  basePath: "/electronics-engineer-korea-study-web/"
+operations:
+  deployment: "github-pages-static"
